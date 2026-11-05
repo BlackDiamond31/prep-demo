@@ -1,0 +1,2 @@
+echo "wooble.bat"
+pause
